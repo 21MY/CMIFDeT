@@ -1,1 +1,1 @@
-The complete code will be released after the paper is published.
+The complete code will be released after publication.
